@@ -1,5 +1,5 @@
 const TABLE = {
-    TODO: "todo",
+    TODO: "todo", PTUP: "PTUP"
   };
 
   module.exports = TABLE;
