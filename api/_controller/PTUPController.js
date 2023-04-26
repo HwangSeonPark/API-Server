@@ -463,5 +463,3 @@ const PTUPController = {
 };
 
 module.exports = PTUPController;
-
-// 수정확인
